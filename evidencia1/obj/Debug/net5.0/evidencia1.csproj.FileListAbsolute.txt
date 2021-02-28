@@ -1,0 +1,16 @@
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.exe
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.deps.json
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.runtimeconfig.json
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.runtimeconfig.dev.json
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.dll
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\ref\evidencia1.dll
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\bin\Debug\net5.0\evidencia1.pdb
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.csprojAssemblyReference.cache
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.AssemblyInfoInputs.cache
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.AssemblyInfo.cs
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.csproj.CoreCompileInputs.cache
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.dll
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\ref\evidencia1.dll
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.pdb
+C:\Users\INNOVA TEC\RiderProjects\evidencia1\evidencia1\obj\Debug\net5.0\evidencia1.genruntimeconfig.cache
